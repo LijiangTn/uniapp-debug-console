@@ -19,7 +19,7 @@
   "author": "izdax <contact@izdax.com>",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/izdax/uniapp-debug-console.git"
+    "url": "git+https://github.com/LijiangTn/uniapp-debug-console.git"
   },
   "license": "MIT",
   "engines": {
@@ -47,7 +47,7 @@
   },
   "homepage": "https://ext.dcloud.net.cn/plugin?id=xxxx",
   "bugs": {
-    "url": "https://github.com/izdax/uniapp-debug-console/issues"
+    "url": "https://github.com/LijiangTn/uniapp-debug-console/issues"
   },
   "directories": {
     "example": "example"
