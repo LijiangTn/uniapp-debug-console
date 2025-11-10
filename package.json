@@ -1,0 +1,58 @@
+{
+  "name": "uniapp-debug-console",
+  "version": "1.0.0",
+  "description": "一个功能强大、界面精美的 uni-app 调试控制台组件，支持全局注册，专为移动端开发者打造",
+  "main": "index.js",
+  "keywords": [
+    "uniapp",
+    "uni-app",
+    "debug",
+    "console",
+    "logger",
+    "调试",
+    "日志",
+    "控制台",
+    "vue3",
+    "移动端",
+    "跨平台"
+  ],
+  "author": "izdax <contact@izdax.com>",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/izdax/uniapp-debug-console.git"
+  },
+  "license": "MIT",
+  "engines": {
+    "HBuilderX": "^3.0.0"
+  },
+  "uni_modules": {
+    "dcloudext": 1,
+    "sale": {
+      "regular": {
+        "price": "0.00"
+      },
+      "sourcecode": {
+        "price": "0.00"
+      }
+    },
+    "contact": {
+      "qq": ""
+    },
+    "declaration": {
+      "ads": "无",
+      "data": "插件不采集任何数据",
+      "permissions": "无需特殊权限"
+    },
+    "npmurl": ""
+  },
+  "homepage": "https://ext.dcloud.net.cn/plugin?id=xxxx",
+  "bugs": {
+    "url": "https://github.com/izdax/uniapp-debug-console/issues"
+  },
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
