@@ -21,6 +21,12 @@
 - 🔧 **高度可定制** - 支持自定义悬浮按钮样式
 - ⚡ **性能优化** - 高效的日志管理和渲染
 
+## 🎬 演示视频
+
+![演示预览](./static/demo.gif)
+
+- 完整演示视频（MP4，下载/本地播放）：[点击下载](./static/demo.mp4)
+
 ## 📦 安装
 
 ### 方式一：复制文件
@@ -28,11 +34,12 @@
 将以下文件复制到你的项目中：
 
 ```
-components/
+components/a
   └── debug-console/
       ├── debug-console.vue  # 主组件
       ├── index.js          # 全局注册插件
       └── static/           # 静态资源
+          ├── demo.mp4      # 演示视频（可选）
           └── svg/          # 图标文件
               ├── log-icon.svg
               ├── clear.svg
