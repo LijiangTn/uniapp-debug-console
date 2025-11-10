@@ -1,0 +1,6 @@
+# 排除示例和开发文档
+example/
+FILES.md
+*.log
+.DS_Store
+node_modules/

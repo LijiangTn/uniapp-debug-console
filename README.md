@@ -48,7 +48,7 @@ components/a
               └── top.svg
 ```
 
-### 方式二：通过包管理器（待发布）
+### 方式二：通过包管理器
 
 ```bash
 npm install @izdax/debug-console
@@ -581,10 +581,5 @@ MIT License
 
 如有问题，请通过以下方式联系：
 - 提交 Issue
-- 发送邮件至：support@izdax.com
-
+- 发送邮件至：1684730480@qq.com
 ---
-
-<p align="center">
-  Made with ❤️ by IZDAX Team
-</p>

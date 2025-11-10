@@ -1,5 +1,5 @@
 {
-  "name": "uniapp-debug-console",
+  "name": "izdax-debug-console",
   "version": "1.0.0",
   "description": "一个功能强大、界面精美的 uni-app 调试控制台组件，支持全局注册，专为移动端开发者打造",
   "main": "index.js",
@@ -14,14 +14,22 @@
     "控制台",
     "vue3",
     "移动端",
-    "跨平台"
+    "跨平台",
+    "izdax"
   ],
-  "author": "izdax <contact@izdax.com>",
+  "author": "lijiang",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/LijiangTn/uniapp-debug-console.git"
   },
   "license": "MIT",
+  "files": [
+    "debug-console.vue",
+    "index.js",
+    "README.md", 
+    "LICENSE",
+    "static/"
+  ],
   "engines": {
     "HBuilderX": "^3.0.0"
   },
