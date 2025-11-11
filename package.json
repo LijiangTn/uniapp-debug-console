@@ -1,6 +1,6 @@
 {
   "name": "izdax-debug-console",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "一个功能强大、界面精美的 uni-app 调试控制台组件，支持全局注册，专为移动端开发者打造",
   "main": "index.js",
   "keywords": [
@@ -55,7 +55,7 @@
     },
     "npmurl": ""
   },
-  "homepage": "https://ext.dcloud.net.cn/plugin?id=xxxx",
+  "homepage": "https://ext.dcloud.net.cn/plugin?id=25814",
   "bugs": {
     "url": "https://github.com/LijiangTn/uniapp-debug-console/issues"
   },
