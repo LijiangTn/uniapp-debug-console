@@ -28,7 +28,9 @@
     "index.js",
     "README.md", 
     "LICENSE",
-    "static/"
+    "static/",
+    "utils/"
+    
   ],
   "engines": {
     "HBuilderX": "^3.0.0"
